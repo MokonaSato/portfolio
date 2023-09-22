@@ -22,7 +22,7 @@ const About = () => {
                 display: { xs: "none", sm: "block" }
               }}
               alt="icon"
-              src="https://github.com/MokonaSato/portfolio/blob/main/public/static/images/icon.png?raw=true"/>
+              src=""/>
           </Grid>
           <Grid item sx={{ p: {xs: 0, sm: 3} }}>
             <Typography variant="h5" gutterBottom>
